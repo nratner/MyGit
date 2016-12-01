@@ -1,0 +1,9 @@
+RRS Parsing list
+
+Find <td>Location:</td> and then next <td> has the location
+
+Find <td>Equipment ID:</td> and the next <td> has the eq id
+
+Find <td>Inspector:</td> and the next <td> has the name of last inspection inspector
+
+Find <td>Comments:</td> and the next <td><p> has the information

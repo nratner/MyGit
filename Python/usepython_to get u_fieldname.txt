@@ -1,0 +1,26 @@
+<td id="dataRop">${gr.u_woop}</td>
+	<td id="dataRqty">${gr.u_qtyreceived}</td>
+	<td id="dataRdatein">${gr.u_datein}</td>
+    <td id="dataRtimein">${gr.u_timein}</td>
+	<td id="dataRstation">${gr.u_station}</td>
+	<td id="dataRdatestarttime">${gr.u_starttime}</td>
+	<td id="tr1">${var cdt = gr.u_starttime;}</td>
+	<td id="dataRlabcard">${gr.u_labnum}</td>
+    <td id="dataRwoodwo">${gr.u_shipperwo}</td>
+    <td id="dataRpartnum">${gr.u_partnum}</td>
+	<td id="dataRop">${gr.u_woop}</td>
+	<td id="dataRqty">${gr.u_qtyreceived}</td>
+	<td id="dataRdatein">${gr.u_datein}</td>
+    <td id="dataRtimein">${gr.u_timein}</td>
+	<td id="dataRstation">${gr.u_station}</td>
+	<td id="dataRdatestarttime">${gr.u_starttime}</td>
+	<td id="dataRlabcard">${gr.u_labnum}</td>  
+    <td id="dataRwoodwo">${gr.u_shipperwo}</td>
+    <td id="dataRpartnum">${gr.u_partnum}</td>
+	<td id="dataRop">${gr.u_woop}</td>
+	<td id="dataRqty">${gr.u_qtyreceived}</td>
+	<td id="dataRdatein">${gr.u_datein}</td>
+    <td id="dataRtimein">${gr.u_timein}</td>
+	<td id="dataRstation">${gr.u_station}</td>
+	<td id="dataRdatestarttime">${gr.u_starttime}</td>
+	<td id="tr1">${var cdt = gr.u_starttime;}</td>

@@ -1,0 +1,19 @@
+def computepay(h,r):
+    if h <=40 :
+    	pay = r * h
+        return pay
+	else :
+    	otpay = rate * 40 + (rate * 1.5 * (hours - 40))
+    	return otpay
+
+h = raw_input("Enter Hours:")
+h = float(h)
+r = raw_input("Enter Hourly Rate:")
+r = float(r)
+
+#hrs = raw_input("Enter Hours:")
+#p = computepay(10,20)
+#print "Pay",p
+
+computepay
+#print rate, hours

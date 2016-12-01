@@ -1,0 +1,10 @@
+== Recipe Finder
+
+Tool created as part of Johns Hopkins "Ruby on Rails: An Introduction" Coursera course.
+
+Visit https://reinsteinrecipefinder.herokuapp.com to see it in action.
+
+You may specify a keyword to search recipes on www.food2fork.com for by specifying a search term.
+For example, https://reinsteinrecipefinder.herokuapp.com/?search=lime.
+
+

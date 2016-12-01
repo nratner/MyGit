@@ -1,0 +1,613 @@
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org" />
+    <title></title>
+  </head>
+  <body>"
+  <h1 text-align:="">
+    <span text-decoration:="">Welcome to the Pan Fee Lease Inspection Reports</span>
+  </h1>
+  <p text-align:="">&nbsp;</p>
+  <div text-align:="">
+    <span font-size:="" text-decoration:="">
+      <strong>
+        <img src="" alt="" belgian="" width="" />
+      </strong>
+    </span>
+  </div>
+  <p text-align:="">&nbsp;</p>
+  <p text-align:="">Please choose equipment from the submenus to the left.</p>" "
+  <p text-align:="">
+    <img src="" border="border" />
+  </p>
+  <p text-align:="">?&#711;</p>
+  <p text-align:="">
+    <strong>Please select the desired Pressure Vessel, at the Pan Fee location, from the
+    submenu.</strong>
+  </p>" "
+  <p text-align:="">
+    <img src="" alt="" panfee="" softenever="" width="" height="" />
+  </p>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+  <table width:="" border="1">
+    <tbody>
+      <tr>
+        <td width:="">Field:</td>
+        <td>Pan Fee</td>
+      </tr>
+      <tr>
+        <td>Location:</td>
+        <td>NMWSS</td>
+      </tr>
+      <tr>
+        <td>Equipment ID:</td>
+        <td>V-1</td>
+      </tr>
+      <tr>
+        <td>Date:</td>
+        <td>07/17/2009</td>
+      </tr>
+      <tr>
+        <td>Inspector:</td>
+        <td>Ray Rankin</td>
+      </tr>
+      <tr>
+        <td rowspan="">Report(s):</td>
+        <td>\t\t\t\t
+        <p>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_1/2009/v1_summary_071709.pdf""}</p>\t\t\t\t
+        <p>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_1/2009/v1_data_071709.pdf""}</p>\t\t\t\t
+        <p>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_1/2009/v1_calcs.pdf""}</p>\t\t\t\t
+        <p>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_1/2009/v1_acad_071709.pdf""}</p>\t\t\t</td>
+      </tr>
+      <tr>
+        <td>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_1/2009/v1_u1a.pdf""}</td>
+      </tr>
+      <tr>
+        <td>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_1/2009/panfee_v1_ticketclosed_012010.pdf""}</td>
+      </tr>
+      <tr>
+        <td>Comments:</td>
+        <td>\t\t\t\t
+        <p>THE SHELL AND BOTTOM HEAD HAVE PITTING AND GENERAL CORROSION THAT IS BELOW THE
+        T MIN FOR THE DESIGN PRESSURE OF THIS VESSEL AS AN ALTERNATIVE TO KEEP THE VESSEL
+        IN SERVICE A NEW T MIN FOR THE SHELL AND HEADS CAN BE ASSUMED. THE DEEPEST PITS
+        COULD BE REPAIRED AND THE SHELL T MIN SET AT 0.400&#201;?&#249; AND THE BOTTOM
+        HEAD T MIN SET AT 0.640&#201;?&#249; WHICH WOULD GIVE A SLIGHT AMOUNT OF
+        CORROSION ALLOWANCE. AT THESE NEW VALUES THE VESSEL COULD BE OPERATED AT 92 PSI
+        MAWP. THIS WOULD BE AT THE OWNERS DISCRETION. IT APPEARS THAT THE PRV ON THIS
+        VESSEL IS SET AT 50 PSI.
+        <br />
+        <br />FOR FULL CODE COMPLIANCE THE VESSEL SHALL BE DE-RATED IN ACCORDANCE WITH
+        THE CALIFORNIA OCCUPOATIONAL SAFETY - PRESSURE VESSEL UNIT 
+        <a href="" target="">CIRCULAR LETTER PV-2006-2</a> AND 
+        <a href="" target="">CIRCULAR LETTER PV-2001-1</a>.</p>\t\t\t\t
+        <p>&nbsp;</p>\t\t\t\t
+        <p>
+        <strong color:="">OUT OF SERVICE, TYE HAMMOND,
+        10/05/2009</strong>\t\t\t\t</p>\t\t\t</td>
+      </tr>
+      <tr>
+        <td>UltraPipe Unit ID</td>
+        <td>PAN FEE</td>
+      </tr>
+      <tr>
+        <td>UltraPipe Circuit</td>
+        <td>7886</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>" "
+  <p text-align:="">
+    <img src="" alt="" panfee="" softenever="" width="" height="" />
+  </p>
+  <table width:="" border="1">
+    <tbody>
+      <tr>
+        <td width:="">Field:</td>
+        <td>Pan Fee</td>
+      </tr>
+      <tr>
+        <td>Location:</td>
+        <td>NMWSS</td>
+      </tr>
+      <tr>
+        <td>Equipment ID:</td>
+        <td>V-2</td>
+      </tr>
+      <tr>
+        <td>Date:</td>
+        <td>07/17/2009</td>
+      </tr>
+      <tr>
+        <td>Inspector:</td>
+        <td>Ray Rankin</td>
+      </tr>
+      <tr>
+        <td rowspan="">Report(s):</td>
+        <td>
+          <p>{rsfiles
+          path=""data/pan_fee/field/api510/softener_v_2/2009/v2_summary_071709.pdf""}</p>
+          <p>{rsfiles
+          path=""data/pan_fee/field/api510/softener_v_2/2009/v2_data_071709.pdf""}</p>
+          <p>{rsfiles path=""data/pan_fee/field/api510/softener_v_2/2009/v1_calcs.pdf""}
+          (same calcs as V-1)</p>
+          <p>{rsfiles
+          path=""data/pan_fee/field/api510/softener_v_2/2009/v2_acad_071709.pdf""}</p>
+        </td>
+      </tr>
+      <tr>
+        <td>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_2/2009/v2_u1a.pdf""}</td>
+      </tr>
+      <tr>
+        <td>{rsfiles
+        path=""data/pan_fee/field/api510/softener_v_2/2009/panfee_v2_ticketclosed_012010.pdf""}</td>
+      </tr>
+      <tr>
+        <td>Comments:</td>
+        <td>
+          <p>THE SHELL AND BOTTOM HEAD HAVE PITTING AND GENERAL CORROSION THAT IS BELOW
+          THE T MIN FOR THE DESIGN PRESSURE OF THIS VESSEL AS AN ALTERNATIVE TO KEEP THE
+          VESSEL IN SERVICE A NEW T MIN FOR THE SHELL AND HEADS CAN BE ASSUMED. THE
+          DEEPEST PITS COULD BE REPAIRED AND THE SHELL T MIN SET AT 0.400&#201;?&#249;
+          AND THE BOTTOM HEAD T MIN SET AT 0.640&#201;?&#249; WHICH WOULD GIVE A SLIGHT
+          AMOUNT OF CORROSION ALLOWANCE. AT THESE NEW VALUES THE VESSEL COULD BE OPERATED
+          AT 92 PSI MAWP. THIS WOULD BE AT THE OWNERS DISCRETION. IT APPEARS THAT THE PRV
+          ON THIS VESSEL IS SET AT 50 PSI.
+          <br />
+          <br />FOR FULL CODE COMPLIANCE THE VESSEL SHALL BE DE-RATED IN ACCORDANCE WITH
+          THE CALIFORNIA OCCUPOATIONAL SAFETY - PRESSURE VESSEL UNIT 
+          <a href="" target="">CIRCULAR LETTER PV-2006-2</a> AND 
+          <a href="" target="">CIRCULAR LETTER PV-2001-1</a>.</p>
+          <p>&nbsp;</p>
+          <p>
+            <strong color:="">OUT OF SERVICE, TYE HAMMOND, 10/05/2009</strong>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td>UltraPipe Unit ID</td>
+        <td>PAN FEE</td>
+      </tr>
+      <tr>
+        <td>UltraPipe Circuit ID</td>
+        <td>7888</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>" "
+  <p text-align:="">
+    <img src="" border="border" />
+  </p>
+  <p text-align:="">?&#711;</p>
+  <p text-align:="">
+    <strong>Please select the desired piping, at the Ethel D location, from the
+    submenu.</strong>
+    <br />
+    <span class="">(future location of data - added for presentation)</span>
+  </p>
+  <p text-align:="">?&#711;</p>
+  <h2 text-align:="">
+    <span class="">There are 
+    <strong class="">134</strong> active wells listed with DOGGR.</span>
+  </h2>" "
+  <div text-align:="">{vsig}/etheld/api570/flowlines/well_79_fl/2014{/vsig}</div>
+  <p text-align:="">&nbsp;</p>
+  <table width:="" border="1">
+    <tbody text-align:="">
+      <tr text-align:="">
+        <td width:="" text-align:="">Field:</td>
+        <td text-align:="">Ethel D</td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">Location:</td>
+        <td text-align:="">SMWSS</td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">Equipment ID:</td>
+        <td text-align:="">Well 79</td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">Inspection Dates:</td>
+        <td text-align:="">Last: 07/30/2014 - Next: 07/30/2019</td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">Inspector:</td>
+        <td text-align:="">Ronnie Harleston</td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="" rowspan="">Report(s):</td>
+        <td text-align:="">
+          <p>
+          <strong>
+            <span text-decoration:="">2014 INSPECTION DATA:</span>
+          </strong>
+          <br />{rsfiles
+          path=""data/etheld/api570/flowlines/well79/2014/etheld_well79_flowline_report_073014.pdf""}</p>
+          <p>{rsfiles
+          path=""data/etheld/api570/flowlines/well79/2014/etheld_well79_flowline_ultrapipe_073014.pdf""}</p>
+          <p>{rsfiles
+          path=""data/etheld/api570/flowlines/well79/2014/etheld_well79_flowline_field_drawing_073014.pdf""}
+          <br />
+          <br />
+          <strong>
+            <span text-decoration:="">2009 INSPECTION DATA:</span>
+          </strong>
+          <br />{rsfiles
+          path=""data/etheld/api570/flowlines/well79/2009/well79_summary_073009.pdf""}
+          <br title="" inspection="" /></p>
+          <p>{rsfiles
+          path=""data/etheld/api570/flowlines/well79/2009/well79_data_073009.pdf""}</p>
+        </td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">Find in 
+        <a href="" target="">Virtual Tour</a></td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">Comments:</td>
+        <td text-align:="">
+          <p>
+          <span text-decoration:="">
+            <strong>Ultrasonic A-Scan Thickness Inspection:</strong>
+          </span>
+          <br />Ultrasonic A-Scan thickness measurements were completed in accordance
+          with Applus RTD established procedures. 3 thickness measurement locations
+          (TMLs) were established and thickness measurements were taken at these
+          locations. All thickness readings have been entered into Ultra Pipe and after
+          review of the data next inspection will be 07/30/2019. The predicted retirement
+          date of the circuit is 07/30/2033 based on calculated corrosion rates and a 2
+          mil per year default corrosion rate. There are 0 caution TMLs per the current
+          thickness survey taken on 07/30/2014.</p>
+          <p>
+            <br />
+            <span text-decoration:="">
+              <strong>API 570 Visual Inspection:</strong>
+            </span>
+          </p>
+          <p>Visual inspection found this piping circuit to be in fair condition. This
+          piping circuit externally is insulated. The insulation is found to be in poor
+          condition, with missing or damage insulation, and in the areas the insulation
+          is missing the surface condition of the piping is covered with light to
+          moderate surface rust. The piping supports surface was covered with light to
+          moderate surface rust and no corrosion was present. Support hangers were found
+          to be in fair condition. The piping was inspected for code compliance issues
+          and to identify possible leaks, stresses and any condition that might reduce
+          the life of the piping circuit. All piping will be put on a maximum 5 year
+          thickness inspection interval per API (class 2 piping) requirements. Some
+          piping TML locations may require re-inspection prior to the maximum interval.
+          See UltraPIPE data reports for all required inspection dates.</p>
+          <p>
+          <br />Recommendations: Repair insulation as needed.</p>
+          <p>All piping will require an API 570 Visual inspection in 5 years.</p>
+        </td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">UltraPipe Unit ID</td>
+        <td text-align:="">ETHEL_D</td>
+      </tr>
+      <tr text-align:="">
+        <td text-align:="">UltraPipe Circut ID</td>
+        <td text-align:="">WELL 79</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>&nbsp;</p>
+  <p text-align:="">&nbsp;</p>
+  <p>&nbsp;</p>" "
+  <p text-align:="">{vsig}/etheld/api510/header4tank/2015{/vsig}</p>
+  <p text-align:="">&nbsp;</p>
+  <table width:="" border="1">
+    <tbody>
+      <tr>
+        <td width:="">Field:</td>
+        <td>Ethel D</td>
+      </tr>
+      <tr>
+        <td>Location:</td>
+        <td>SMWSS</td>
+      </tr>
+      <tr>
+        <td>Equipment ID:</td>
+        <td>AWT-4 6220153-01 (serial number)</td>
+      </tr>
+      <tr>
+        <td>Inspection Dates:</td>
+        <td>Last: 03/11/2015
+        <br />Next: 06/07/2017</td>
+      </tr>
+      <tr>
+        <td>Inspector:</td>
+        <td>Ronnie Harleston</td>
+      </tr>
+      <tr>
+        <td rowspan="">Report(s):</td>
+        <td>
+          <p>
+          <span text-decoration:="">2015 INSPECTION DATA:
+          <br /></span>{rsfiles
+          path=""data/etheld/api510/header_4_tank/2015/etheld_awt-4_report_031115.pdf""}</p>
+          <p>{rsfiles
+          path=""data/etheld/api510/header_4_tank/2015/etheld_awt-4_ultrapipe_031115.pdf""}</p>
+          <p>&nbsp;</p>
+          <p>
+            <span text-decoration:="">2013 INSPECTION DATA:</span>
+          </p>
+          <div class="">
+            <div class="">{rsfiles
+            path=""data/etheld/api510/header_4_tank/2013/etheld_header4tank_report_091613.pdf""}</div>
+            <div class="">{rsfiles
+            path=""data/etheld/api510/header_4_tank/2013/etheld_header4tank_ultrapipe_091613.pdf""}</div>
+            <div class="">{rsfiles
+            path=""data/etheld/api510/header_4_tank/2013/etheld_header4tank_fielddrawing_091613.pdf""}</div>
+          </div>
+          <p>&nbsp;</p>
+          <p>
+            <span text-decoration:="">2009 INSPECTION DATA:</span>
+          </p>
+          <div class="">
+            <div class="">{rsfiles
+            path=""data/etheld/api510/header_4_tank/2009/header4tank_summary_080309.pdf""}</div>
+            <div class="">{rsfiles
+            path=""data/etheld/api510/header_4_tank/2009/header4tank_data_073009.pdf""}</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>Find in 
+        <a href="" target="">Virtual Tour</a></td>
+      </tr>
+      <tr>
+        <td>Comments:</td>
+        <td>
+          <p>
+          <span text-decoration:="">
+            <strong>Ultrasonic A-Scan Inspection:</strong>
+          </span>
+          <br />Ultrasonic A-Scan thickness measurements were performed on the heads,
+          shell, and nozzles. All readings have been entered into Ultra Pipe and after
+          review of the data the next inspection will be 06/07/2017. The predicted
+          retirement date of the vessel is 09/05/2019 based on calculated corrosion rates
+          and a 2 mil per year default corrosion rate. There are 6 caution TMLs per the
+          current thickness survey taken on 03/11/2015. Caution TMLs are due to high
+          corrosion rates.</p>
+          <p>&nbsp;</p>
+          <p>
+          <span text-decoration:="">
+            <strong>API 510 External Inspection:</strong>
+          </span>
+          <br />External visual inspection was performed and found this vessel to be in
+          fair condition. The coating on this vessels exterior shell and heads is in fair
+          condition. This vessel is supported by four legs welded to this vessel and
+          found to be structurally sound. All anchors bolts were securely fastened to the
+          concrete foundation. The concrete foundation is above grade level and in good
+          condition with no spalling or cracking noted. There is one PSV located on this
+          vessel and it is on the top head. This PSV is missing service tag. The
+          manufacturer data plate pressure is set at 600 PSIG which is above the vessel
+          MAWP of 225 PSI. Recommend replacing the PSV with the correct set pressure for
+          this vessel. During the thickness measurement inspection on the
+          24&#201;??&#201;?? man way there is sign of internal wall loss recommend an
+          internal inspection on the next available time.&nbsp; All bolted flange and
+          threaded connections to the shell and heads. There is no visual evidence of
+          leakage or corrosion found. The next visual inspection will be time based at 5
+          years.</p>
+          <p>&nbsp;</p>
+          <p>
+          <span text-decoration:="">
+            <strong>API 510 Internal Inspection:</strong>
+          </span>
+          <br />Internal inspection was not completed during this inspection. Internal
+          inspection is recommended at the next planned shut-down.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>UltraPipe Unit ID</td>
+        <td>ETHEL_D</td>
+      </tr>
+      <tr>
+        <td>UltraPipe Circut ID</td>
+        <td>HEADER 4 TANK</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>&nbsp;</p>
+  <p text-align:="">&nbsp;</p>
+  <p>&nbsp;</p>" "
+  <p text-align:="">
+    <img src="" alt="" border="border" />
+  </p>
+  <table width:="" border="1">
+    <tbody>
+      <tr>
+        <td width:="">Field:</td>
+        <td>Ethel D</td>
+      </tr>
+      <tr>
+        <td>Location:</td>
+        <td>SMWSS</td>
+      </tr>
+      <tr>
+        <td>Equipment ID:</td>
+        <td>6220153-02 (serial number)</td>
+      </tr>
+      <tr>
+        <td>Inspection Dates:</td>
+        <td>
+          <p>Last: 07/10/2014</p>
+          <p>Next: 
+          <span color:="">Out of Service</span></p>
+        </td>
+      </tr>
+      <tr>
+        <td>Inspector:</td>
+        <td>PAUL BOYD</td>
+      </tr>
+      <tr>
+        <td rowspan="">Report(s):</td>
+        <td>
+          <p>
+            <span text-decoration:="">2014 INSPECTION DATA:</span>
+          </p>
+          <div class="">
+            <table class="" rsf_files="" table="" table-striped="">
+              <tbody>
+                <tr class="">
+                  <td>
+                    <a href="">INSPECTION REPORT&nbsp;</a>
+                  </td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">733.85 KB</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">
+                  <a class="" hastooltip=" title=" href=""></a> 
+                  <a class="" title="" href=""></a> 
+                  <a class="" modal="" title="" href="" rel="" size:="" y:=""></a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="">
+            <table class="" rsf_files="" table="" table-striped="">
+              <tbody>
+                <tr class="">
+                  <td>
+                    <a href="">ULTRPIPE DATA REPORT&nbsp;</a>
+                  </td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">36.88 KB</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">
+                  <a class="" hastooltip=" title=" href=""></a> 
+                  <a class="" title="" href=""></a> 
+                  <a class="" modal="" title="" href="" rel="" size:="" y:=""></a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="">
+            <table class="" rsf_files="" table="" table-striped="">
+              <tbody>
+                <tr class="">
+                  <td>
+                    <a href="">FIELD DRAWING&nbsp;</a>
+                  </td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">804.1 KB</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">
+                  <a class="" hastooltip=" title=" href=""></a> 
+                  <a class="" title="" href=""></a> 
+                  <a class="" modal="" title="" href="" rel="" size:="" y:=""></a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p>&nbsp;</p>
+          <p>
+            <span text-decoration:="">2009 INSPECTION DATA:</span>
+          </p>
+          <div class="">
+            <table class="" rsf_files="" table="" table-striped="">
+              <tbody>
+                <tr class="">
+                  <td>
+                    <a href="">INSPECTION REPORT&nbsp;</a>
+                  </td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">373.77 KB</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">
+                  <a class="" hastooltip=" title=" href=""></a> 
+                  <a class="" title="" href=""></a> 
+                  <a class="" modal="" title="" href="" rel="" size:="" y:=""></a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="">
+            <table class="" rsf_files="" table="" table-striped="">
+              <tbody>
+                <tr class="">
+                  <td>
+                    <a href="">ULTRAPIPE DATA REPORT&nbsp;</a>
+                  </td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">60.01 KB</td>
+                  <td class="" align="">&nbsp;</td>
+                  <td class="" align="">
+                  <a class="" hastooltip=" title=" href=""></a> 
+                  <a class="" title="" href=""></a> 
+                  <a class="" modal="" title="" href="" rel="" size:="" y:=""></a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>Find in 
+        <a href="" target="">Virtual Tour</a></td>
+      </tr>
+      <tr>
+        <td>Comments:</td>
+        <td>
+          <p>
+            <strong>
+              <span text-decoration:="">Ultrasonic A-Scan Inspection:</span>
+            </strong>
+          </p>
+          <p>Ultrasonic A-Scan thickness measurements were performed on the heads, shell,
+          and nozzles. All readings have been entered into Ultra Pipe and after review of
+          the data the next inspection will be 04/07/2017. The predicted retirement date
+          of the vessel is 01/06/2020 based on calculated corrosion rates and a 2 mil per
+          year default corrosion rate. There is 0 caution TMLs per the current thickness
+          survey taken on 07/10/2014.</p>
+          <p>
+          <br />
+          <strong>
+            <span text-decoration:="">API 510 External Inspection:</span>
+          </strong>
+          <br />External inspection found the vessel to be in good condition. The coating
+          on vessels exterior shell is in fair condition. This vessel is supported by
+          four legs and structurally sounds. All anchors bolts were found securely
+          fastened to the concrete foundation. The concrete foundation is above grade
+          level and in good condition with no spalling or cracking present. There is only
+          one PSV located on this vessel and it is located on the top head. The PSV
+          pressure is set at 225 PSIG. All bolted flange and threaded connections to the
+          shell and heads, there is no visual evidence of leakage or corrosion found. The
+          next internal inspection will be time based per API 510 at 5 years.
+          <br />&nbsp;</p>
+          <p>
+          <strong>
+            <span text-decoration:="">API 510 Internal Inspection:</span>
+          </strong>
+          <br />Internal inspection was not completed during this inspection.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>UltraPipe Unit ID</td>
+        <td>ETHEL_D</td>
+      </tr>
+      <tr>
+        <td>UltraPipe Circut ID</td>
+        <td>HEADER 6 TANK</td>
+      </tr>
+    </tbody>
+  </table>

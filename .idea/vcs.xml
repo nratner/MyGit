@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RubyonRails" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RubyonRails/httparty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RubyonRails/module2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fullstack-course1-module2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fullstack_C4" vcs="Git" />
+  </component>
+</project>

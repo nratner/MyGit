@@ -1,0 +1,2 @@
+GET https://dev10522.service-now.com/api/now/table/sys_user?sysparm_display_value=all&sysparm_suppress_pagination_header=true&sysparm_fields=name%2Cemail%2Cmanager%2Ccompany&sysparm_limit=1&email=fred.luddy%40example.com
+
